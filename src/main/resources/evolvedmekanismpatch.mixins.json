@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.heihodesu.empatch.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MekanismBlockTypesPatchMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

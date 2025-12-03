@@ -1,0 +1,13 @@
+{
+  "itemGroup.evolvedmekanismpatch": "Example Mod Tab",
+  "block.evolvedmekanismpatch.example_block": "Example Block",
+  "item.evolvedmekanismpatch.example_item": "Example Item",
+
+  "evolvedmekanismpatch.configuration.title": "EvolvedMekanismPatch Configs",
+  "evolvedmekanismpatch.configuration.section.evolvedmekanismpatch.common.toml": "EvolvedMekanismPatch Configs",
+  "evolvedmekanismpatch.configuration.section.evolvedmekanismpatch.common.toml.title": "EvolvedMekanismPatch Configs",
+  "evolvedmekanismpatch.configuration.items": "Item List",
+  "evolvedmekanismpatch.configuration.logDirtBlock": "Log Dirt Block",
+  "evolvedmekanismpatch.configuration.magicNumberIntroduction": "Magic Number Text",
+  "evolvedmekanismpatch.configuration.magicNumber": "Magic Number"
+}
